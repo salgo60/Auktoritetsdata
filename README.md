@@ -23,3 +23,12 @@ konsulterats, vilken katalogiseringsinstans som fastställt den kontrollerade s�
 * [Digisam DISKA, resultat av inventering på 24 myndigheter, överblick](http://www.digisam.se/lista-oever-register-fran-diska-projektet/) 2013-08-19
    * [Om inventeringen](http://www.digisam.se/diska-projektet-efter-inventeringen/)
    * Delrapport till VINNOVA 2013-05-30 [(pdf-fil)](http://www.digisam.se/wp-content/uploads/2013/07/Vinnova%20delrapport%20hela%20med%20bilagor%20inlmnad%202013-05-30.pdf)
+   * [Prezi](https://prezi.com/qdze6qvqmscr/diska-ett-projekt-pa-digisam-i-samarbete-med-kth/)
+* DISKA-seminarium 2014-02-11
+   * Digitala semantiska kulturarvsauktoriteter [presenation](https://docs.google.com/presentation/d/1a-f3wBh1lHIbogW8VzkpbIVsE-swVur8ZlMmdkFCgL4)
+   * Johanna Berg, Digisam: http://www.slideshare.net/Digisam/johanna-berg-kth-20140211
+   * Helena Lundin, Digisam: http://www.slideshare.net/Digisam/diskaprojektet-31432298
+   * Matthias Palmér, MetaSolutions: http://www.slideshare.net/MetaSolutionsAB/introduktion-till-lodify
+   * Ulf Bodin, Kultur-IT: http://www.digisam.se/images/docs/Bodin_KulturNav_DISKA_20140211_dist.pdf 
+   * André Costa, Wikimedia Sverige: http://www.digisam.se/images/docs/Costa_DISKA presentation-2014-02-11.pdf
+* Rolf Källman Länsmuseernas samarbetsråd [Ett samordnat digitalt kulturarv](https://www.slideshare.net/Digisam/rolf-kllman-lnsmuseernas-samarbetsrd-24-0kt-2012)
