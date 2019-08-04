@@ -20,3 +20,6 @@ Auktoritetsposten brukar också innehålla information om
 vilket regelverk som använts för att skapa den kontrollerade sökingången, vilka källor som
 konsulterats, vilken katalogiseringsinstans som fastställt den kontrollerade sökingången etc
 ```
+* [Digisam DISKA, resultat av inventering på 24 myndigheter, överblick](http://www.digisam.se/lista-oever-register-fran-diska-projektet/) 2013-08-19
+   * [Om inventeringen](http://www.digisam.se/diska-projektet-efter-inventeringen/)
+   * Delrapport till VINNOVA 2013-05-30 [(pdf-fil)](http://www.digisam.se/wp-content/uploads/2013/07/Vinnova%20delrapport%20hela%20med%20bilagor%20inlmnad%202013-05-30.pdf)
