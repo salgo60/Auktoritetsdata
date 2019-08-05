@@ -48,7 +48,7 @@ komma till användning måste de upplevas som relevanta och långsiktiga, för v
 samordning och ägarskap. Oavsett ägarskap handlar det inte om att skapa en enda stor
 kulturhistorisk ontologi, utan att se till att gemensamma basdata finns på plats samtidigt som
 andra uppdelningar av koncept är möjliga. Ett sätt att uppnå långsiktighet är att koppla till
-wikidata5 (där det eventuellt redan finns en del poster som kan användas).
+wikidata (där det eventuellt redan finns en del poster som kan användas).
 Hur K-samsök agerar i frågan om auktoritetslistor är en avvägning som både har att göra med
 ansvar och kostnad, men också att dra fördel av den mångfald länkade data kan erbjuda
 samtidigt som man faciliterar en samsyn när sådan är möjlig och till hjälp för
@@ -61,3 +61,5 @@ K-samsök kan även ta denna roll utan att vara aggregator, men om arbetet som a
 bli framgångsrikt måste man aktivt förhålla sig till denna fråga. Här krävs samordning, bl a
 innehållsleverantörer, Riksarkivet och Kungliga biblioteket.
 ```
+
+Kommentar Magnus: Intressant att man reda 2014 peka på Wikidata lite konstigt att inget material hittas efter 2014....
