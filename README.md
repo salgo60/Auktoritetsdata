@@ -32,3 +32,5 @@ konsulterats, vilken katalogiseringsinstans som fastställt den kontrollerade s�
    * Ulf Bodin, Kultur-IT: http://www.digisam.se/images/docs/Bodin_KulturNav_DISKA_20140211_dist.pdf 
    * André Costa, Wikimedia Sverige: http://www.digisam.se/images/docs/Costa_DISKA presentation-2014-02-11.pdf
 * Rolf Källman Länsmuseernas samarbetsråd [Ett samordnat digitalt kulturarv](https://www.slideshare.net/Digisam/rolf-kllman-lnsmuseernas-samarbetsrd-24-0kt-2012)
+
+* Phabricator [Task 227554](https://phabricator.wikimedia.org/T227554) "P777 Swedish civil parish code/ATA code need care"
