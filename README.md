@@ -34,3 +34,30 @@ konsulterats, vilken katalogiseringsinstans som fastställt den kontrollerade s�
 * Rolf Källman Länsmuseernas samarbetsråd [Ett samordnat digitalt kulturarv](https://www.slideshare.net/Digisam/rolf-kllman-lnsmuseernas-samarbetsrd-24-0kt-2012)
 
 * Phabricator [Task 227554](https://phabricator.wikimedia.org/T227554) "P777 Swedish civil parish code/ATA code need care"
+
+## K-samsök
+* [Underlag för utvecklingsplan för K-samsök](http://www.ksamsok.se/wp-content/uploads/2014/09/Rapport-K-sams%C3%B6k-v2.pdf) 15 september, 2014 
+
+```
+Roll 2: Auktoritetslistor – samordnare och/eller ägare
+
+För att länkade data ska funka fullt ut måste man i någon utsträckning använda samma
+auktoritetslistor (gemensamma resurser för exempelvis plats och tid – ett slags master data) –
+eller specificera hur olika auktoriteter förhåller sig till varandra. För att auktoritetslistor ska
+komma till användning måste de upplevas som relevanta och långsiktiga, för vilket det krävs
+samordning och ägarskap. Oavsett ägarskap handlar det inte om att skapa en enda stor
+kulturhistorisk ontologi, utan att se till att gemensamma basdata finns på plats samtidigt som
+andra uppdelningar av koncept är möjliga. Ett sätt att uppnå långsiktighet är att koppla till
+wikidata5 (där det eventuellt redan finns en del poster som kan användas).
+Hur K-samsök agerar i frågan om auktoritetslistor är en avvägning som både har att göra med
+ansvar och kostnad, men också att dra fördel av den mångfald länkade data kan erbjuda
+samtidigt som man faciliterar en samsyn när sådan är möjlig och till hjälp för
+innehållsleverantörer.
+```
+.....
+
+```
+K-samsök kan även ta denna roll utan att vara aggregator, men om arbetet som aggregator ska
+bli framgångsrikt måste man aktivt förhålla sig till denna fråga. Här krävs samordning, bl a
+innehållsleverantörer, Riksarkivet och Kungliga biblioteket.
+```
