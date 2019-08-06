@@ -39,6 +39,25 @@ konsulterats, vilken katalogiseringsinstans som fastställt den kontrollerade s�
 * [Underlag för utvecklingsplan för K-samsök](http://www.ksamsok.se/wp-content/uploads/2014/09/Rapport-K-sams%C3%B6k-v2.pdf) 15 september, 2014 
 
 ```
+K-samsöks roll idag, utöver att vara en aggregator, är något vagt definierad.
+```
+....
+```
+Det finns ingen triple store, vilket innebär att man får bygga nya tabeller varje gång en ny relation läggs 
+till. Vidare lagras alla länkar mellan objekt i K-samsök separat, så att objekten inte känner till dem,
+eftersom K-samsök inte äger objekten.
+```
+....
+```
+Flera intervjupersoner tar upp problem med datakvalitet och ägandeskap. Dataleveransen
+upplevs som spretig, delvis på grund av att det inte finns någon överenskommelse kring
+master data (som är ett sätt att se auktoritetslistor) och för att mycket data inte är strukturerad,
+vilket gör att man måste matcha i fritext. Detta kopplas till frågan om ägandeskap, och att en
+konsekvens av skördningen är att data frikopplas från förvaltaren. Den varierande
+datakvaliteten beror också på underliggande datainsamling och museisystem. 
+```
+....
+```
 Roll 2: Auktoritetslistor – samordnare och/eller ägare
 
 För att länkade data ska funka fullt ut måste man i någon utsträckning använda samma
