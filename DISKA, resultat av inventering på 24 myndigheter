@@ -1,0 +1,329 @@
+DISKA, resultat av inventering på 24 myndigheter, överblick
+
+
+1. Arbetets museum
+
+1.1. Register över arbetslivsmuseer (digitalt i FileMaker, 1.442 museer)
+
+2. Arkitektur- och designcentrum, f.d. Arkitekturmuseet
+
+2.1. Arkitektregistret (digitalt i Primus, 2.000 poster)
+
+2.2. Arkitekturregister (digitalt i Primus, 16.000 poster)
+
+2.3. Klassifikationssystem för arkitektur (digitalt i Primus, nivåer 0-23 samt undernivåer)
+
+2.4. Centralregistret (digitalt i FileMaker, 70.760 poster)
+
+3. Forum för levande historia
+
+Inte inventerat
+
+4. Institutet för språk och folkminnen, SOFI
+
+4.1. Svenskt ortnamnsregister med Skånska ortnamnsregistret (digitalt i MySQL, scannade kort, 4.5 miljoner poster)
+
+4.2. Personnamnregistret (analog kortkatalog, delvis i pdf, totalt ca 100.000 poster)
+
+4.3. Dialektregistret (analog kortkatalog, ca 1 miljon poster)
+
+4.4. Namn på husdjur (inget eget register än, utan nystartat projekt som bygger på och följer upp äldre register)
+
+5. Kulturrådet
+
+Inte inventerat
+
+
+6. Kungliga biblioteket, KB
+
+6.1. Auktoritetsdatabasen (digitalt i Regina/Libris, 258.000 poster)
+
+6.2. Visor med författare (signum F) i Skillingtryckssamlingen (analog kortkatalog, ca 290 kort)
+
+6.3. Register över missdådare i Skillingtryck (signum O), Skillingtrycksamlingen (analog kortkatalog, ca 550 kort)
+
+7. Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet, LSH
+
+7.1. Hallwylska museets generalregister (i tryckt form) (analogt, delvis digitaliserat i MuseumPlus, 67 volymer)
+
+7.2. Hallwylska museets register över biblioteket (i tryckt form) (analogt, 1 volym)
+
+7.3. Hallwylska museets husregister, grupp 1 (i tryckt form) (analogt, 1 volym)
+
+7.4. Hallwylska museets privat- och företagsarkiv (i tryckt form) (analogt, 1 volym)
+
+7.5. Livrustkammaren, mästarregister Sverige (delvis analogt, 5 pärmar. Delvis digitalt, delar i Filemaker (okänt antal) och delar i MuseumPlus, 19.000 namn. OBS: kan innehålla namn från register 7.5-7.9)
+
+7.6. Livrustkammaren, mästarregister bössmeder, internationellt (delvis analogt, ca 10 pärmar. Delvis digitalt i MuseumPlus, se 7.5 ovan)
+
+7.7. Livrustkammaren, stämpelregister, bokstavsstämplar (troligen helt analogt, ca 16 pärmar. Eventuellt delvis digitalt i MuseumPlus, se 7.5 ovan)
+
+7.8. Livrustkammaren, mästarregister, topografiskt Sverige, Norge, Danmark, Finland (delvis analogt, 3 pärmar. Eventuellt delvis digitalt i MuseumPlus, se 7.5 ovan)
+
+7.9. Livrustkammaren, faktorier Sverige (delvis analogt 9 pärmar. Eventuellt delvis digitalt i MuseumPlus, se 7.5 ovan)
+
+7.10. Livrustkammaren, dräkt- och textiltermer (analogt, ca 1.100 kort?)
+
+7.11. Livrustkammaren, hantverkarregister för åkdonstillverkning, hästutrustning (analogt, 1 pärm)
+
+7.12. Namnmodul i den gemensamma databasen (digitalt i MuseumPlus, mellan 9.000 och 15.000 namn. Se 7.5 ovan)
+
+8. Moderna museet
+
+8.1. Konstnärsregistret med ateljéregister (digitalt i The Museum System. TMS, 6.441 konstnärsnamn, av vilka 2.376 är nu levande. 130 ateljéposter)
+
+
+9. Myndigheten för tillgängliga medier, MTM (fd Talboks- och punktskriftsbiblioteket, TPB )
+
+Inte inventerat
+
+
+10. Nationalmuseum med Prins Eugens Waldemarsudde
+
+10.1. Nationalmuseums utställningar (digitalt i Excel, okänt antal)
+
+10.2. Person- och organisationsregister (digitalt i MuseumPlus, 16.500 personnamn, 3.307 organisationer)
+
+10.3. Utställningar- och låneärenden (digitalt i MuseumPlus, okänt antal)
+
+10.4. Gravyr- och handskriftssamlingens register över avbildade personer (analogt kortregister, 14 lådor)
+
+10.5. Topografiskt register på gravyr- och handskriftssamlingen (analogt kortregister, okänt antal)
+
+10.6. Gravyr- och handskriftssamlingens inventorsregister (analogt kortregister, 4 lådor)
+
+10.7. Donationsregister, 1800-talets slut-1984 (analogt kortregister, ca 3.700 kort)
+
+10.8. Fotografihistoriskt arkiv (analogt klipparkiv, okänt antal)
+
+10.9. Bildarkivet, bilder av föremål ur andra samlingar (analogt arkiv, okänt antal)
+
+10.10. Svenska porträttarkivets kortregister, SPA (analogt kortregister, konstnärskatalogen ca 8.000 kort, huvudkatalogen/avbildade personer ca 93.940 kort)
+
+10.11. Bildarkivets register (analogt kortregister, ca 7.600 kort)
+
+10.12. Bildarkivets namnregister över samlingarna (analogt kortregister, ca 400-500 ? kort)
+
+10.13. Gravyr- och handskriftssamlingens lappkatalog och microfichekatalogen, konstnärsnamn (två analoga kortregister som kompletterar varandra okänt antal)
+
+11. Naturhistoriska riksmuseet
+
+11.1. Botaniska insamlarregistret (digitalt i FileMaker pro, ca 17.000 poster)
+
+11.2. Utställningsregister 1965-2010 (digitalt i Word, okänt antal)
+
+11.3. Fiskdatabasen, fisknamn? (digitalt okänt format, okänt antal)
+
+
+12. Nordiska museet
+
+12.1. Nationella fotografregistret (digitalt i access?, ca 3.150 poster)
+
+12.2. Namnmodulen i Primus (digitalt i Primus, ca 100.000 poster)
+
+12.3. Ortnamnsregister (digitalt i Primus, ca 40.000 poster)
+
+12.4. Ämnesord för Nordiska museets klassifikationssystem (digitalt i Primus, okänt antal)
+
+12.5. Konstnärsregistret (analogt kortregister, ca 9 dubbla kortlådor)
+
+12.6. Skråarkivet (analogt, 2 låga pärmar)
+
+12.7. Brev- och manuskriptsamlingen (analogt, 17 lådor à ca 100 lappar, musikpersoner i förteckning på ca 7 sidor)
+
+12.8. Autografsamlingen (analogt i pärm, kan finnas i Word, 22 sidor)
+
+12.9. Hantverksregistret (analogt kortregister, 48 lådor)
+
+12.10. Folkminnessamlingens excerptkatalog (analogt kortregister, 390 lådor)
+
+
+13. Riksantikvarieämbetet
+
+13.1. Kulturmiljöbild, KMB (digitalt i Oracle, okänt antal namn)
+
+13.2. Arkivförteckningar (digitalt i Visual Arkiv, ca 200 arkivbildare)
+
+13.3. Register till handteckningssamlingen (analogt kortregister, 3 lådor)
+
+13.4. Handskriftsregister (analogt kortregister, ca 3.000 kort)
+
+13.5. Ikonografiska registret (analogt kortregister, ca 31.000 kort)
+
+13.6. Brevskrivarregistret (analogt & digitalt, pärm & access, en pärm)
+
+13.7. Sockenförteckning (digitalt i pdf & Excel, ca 60 socknar)
+
+13.8. Personregister i Bebyggelseregistret (digitalt i db, ca 14.700 poster)
+
+13.9. Organisationsregister i Bebyggelseregistret (digitalt i db, ca 7.000 poster)
+
+13.10. Bebyggelseregistret (digitalt i db, ca 83.000 byggnadsposter och 27.000 anläggningsposter)
+
+13.11. FMIS (Fornminnesinformationssystem)(digitalt, ca 660.000 poster)
+
+13.12. K-samsök (digitalt, i rdf xml-format, ca 4.800.000 objekt)
+
+13.13. Platsr (digital db, ca 2.100 platser)
+
+
+14. Riksarkivet
+
+14.1. Svenskt biografiskt lexikon, SBL (digital db, 12.000 sökbara personnamn)
+
+14.2. Klipparkiv, SBL (analogt klipparkiv, 35-40 hyllmeter)
+
+14.3. Personregister, SBL (analogt kortregister & delvis digitalt i FileMaker-db, kompletterar varandra, totalt 380.000 poster)
+
+14.4. Topografiska registret (analogt kortregister, 80 lådor)
+
+14.5. Biografiskt register (analogt kortregister/scanning pågår, 163 lådor. Se register 14.10)
+
+14.6. Svea hovrätts domar 1615-1680 (analog förteckning, 1 volym)
+
+14.7. Konseljlistor / Konseljdatabas (förteckning analog 1921-1970-tal, 32 hyllmeter / digital 1840-1920, i Arkis/SVAR, 600.000 poster, ärenden)
+
+14.8. Register över landshövdingarnas skrivelser till Kungl Majt.(analog, 22 volymer)
+
+14.9. Högsta domstolen, Justitierevisionen (analogt, ca 5 hyllmeter)
+
+14.10. Brevskrivarregistret över enskilda arkiv (se även 14.5, analogt register. Kompletterar varandra) (digitalt i Microsoft SQL-db, ca 405.000 poster)
+
+14.11. Folkräkningar (delvis digitalt, SVAR och på CD, okänt antal)
+
+14.12. Bevarandetermer (digitalt i Arkis/NAD, totalt 440 termer i hierarki)
+
+14.13. Handlingstyper (digitalt i Arkis/NAD, totalt 39 typer)
+
+14.14. Kategorikoder (digitalt i NAD, 8 huvudkategorier, 384 underkategorier)
+
+14.15. Topografier (digitalt i NAD, ca 9.000 poster)
+
+
+15. Riksutställningar
+
+Inte inventerat
+
+
+16. Skansen
+
+16.1. Miljö- och gårdsregister (digitalt i förvaltningsdatabasen Arcgis Shape, 340 byggnader och i samlingsdatabasen Primus, 576 poster)
+
+16.2. Namn- och personregister i Primus (digitalt i Primus, 1.194 poster)
+
+16.3. Ortsregister i Primus (digitalt i Primus, 7.388 poster)
+
+
+17. Statens försvarshistoriska museer (Armémuseum, Flygvapenmuseum, Sveriges militärhistoriska arv, SMHA)
+
+17.1. Ortsregister med slag (analogt kortregister, ca 200 kort)
+
+17.2. Fältherreregister (analogt excerptregister, 22 pärmar)
+
+18. Statens historiska museer (Historiska museet, Myntkabinettet, Tumba bruksmuseum)
+
+Inte inventerat
+
+19. Statens konstråd
+
+19.1. Namnposter på konstnärer i RiwArt (digitalt i RiwArt, ca 6.150 konstnärer)
+
+19.2. Kortregister över konst som passerat Konstrådet, namnregister (analogt kortregister, okänt antal. Kompletterar register 19.1)
+
+19.3. Titlar på konstverk (digitalt i RiwArt, okänt antal)
+
+
+20. Statens maritima museer (Marinmuseum, Sjöhistoriska museet, Vasamuseet)
+
+20.1. Register över arkivbildare (digitalt i Visual Arkiv/NAD, ca 550 poster)
+
+20.2. Marinmålare (analogt, 2 volymer max 100 namn)
+
+20.3. Personauktoriteter via Micromarc, bibliotekskatalog (digitalt via Libris, okänt antal)
+
+20.4. Fartygsregister flottan 1595- (analogt kortregister, ca 400-500 poster)
+
+20.5. Kulturhistoriskt skeppsregister (digitalt i access, 326 poster)
+
+20.6. Fotografregister (digitalt i Marketstore, ca 50 poster)
+
+20.7. Varvregister, Sverige (analogt, 4 volymer arkivkartonger)
+
+20.8. Båtbyggaryrkeskommittén (analogt i arkivkartonger, 146 varv)
+
+20.9. Fritidsbåtsregister (Gunnar Johanssons fritidsbåtsregister) (digitalt i Access, 43.000 poster, varav ca 5.000 unika båtar)
+
+20.10. Termer för maritim miljö (okänt format, okänt antal)
+
+21. Statens musikverk, SMV (Svenska visarkivet, Musik/teatermuseet, Musik/teaterbiblioteket, Elektronmusikstudion EMS…)
+
+21.1. Person- och ämnesordsregister i RIdIM, Répertoire International d’Iconographie Musicale (digitalt scannade kort i db Xref, ca 4.000 poster)
+
+21.2. Riksinventeringen (analogt kortregister, delvis digital i okänd db, scanning av korten pågår, totalt 18 lådor, 13 scannade / 8.540 scannade kort)
+
+21.3. Repertoarregister (digitalt i Calm, ca 27.000 uppsättningar / 133.000 namnposter men många dubbletter)
+
+21.4. Michals register över tal- och sångpjäser, 1863-1913 (analogt, 1 volym 328 sidor, ca 2.000 pjäser)
+
+21.5. Repertoarregister kortkatalog 1916-1980 (analogt kortregister, 17 lådor)
+
+21.6. Repertoarregister Sverige, kortkatalog, 1980-1994 (analogt kortregister, 10 lådor)
+
+21.7. Skådespelarregister av Carl Deurell (analogt, 10 pärmar, 1 namn/blad)
+
+21.8. Skådespelarregister av Dahlskog (analogt, okänt antal)
+
+21.9. Skådespelarregister kortkatalogen (analogt kortregister, 5 lådor)
+
+21.10. Uniforma titlar för musik enligt KRS (Katalogiseringsregler för Svenska bibliotek) (digital db okänt format, okänt antal)
+
+21.11. Upphovsmän i Elektronmusik-studion EMS arkivdatabas (digitalt i FileMaker, ca 1.500 personer)
+
+21.12. Visarkivets ordlista (digital HTML-webbsida, ca 200 termer)
+
+21.13. Fotografer/ateljéer i Fototekets databas (digitalt i FileMaker, ca 30 fotografer, ca 220 ateljéer)
+
+21.14. Lista över tonsättare, Digilellky + kortkatalog över musikalier med namningång (tonsättare) (delvis digital i MySQL-db, ca 19.000 poster, delvis analog kortkatalog, totalt 486 lådor).
+
+21.15. SMA-katalogen, biografisk ingång (Svenskt musikhistoriskt arkiv, SMA)(analogt kortregister, 57 lådor)
+
+21.16. Bildtesaurus på svenska (analog lista, 1 pärm)
+
+21.17. Kyhlbergs samling, kortkatalog namningång i materialet (analogt kortregister, 21 lådor / ca 4.200 kort)
+
+21.18. Utile Dulchi-samlingens lista över kompositörer (digitalt okänt format, överförd till Digilellky se register 21.14, 193 tonsättare, 1.300 verk, 36 anonyma)
+
+21.19. Arkivbildarregister i andra samlingar (analogt, 47 pärmar)
+
+21.20. Thesasurus över musiklitteratur (analogt, 1 pärm)
+
+21.21. Namnregister i Folkmusikkommissionens notsamling (digitalt i MySQL, okänt antal)
+
+21.22. Spelmän och musiker (folk- och jazzmusiker) (digitalt i X-ref, 8.389 namnposter)
+
+21.23. Förteckning över kvinnliga tonsättare (digitalt i pdf, delvis i Digilellky register 21.14, ca 70 namn)
+
+21.24. Svenska instrumentbyggare (analogt kortregister, ca 1.500 kort)
+
+
+22. Svenska filminstitutet, SFI
+
+22.1. Svenska filmdatabasen (digitalt i SQL-server 2005, ca 300.000 namn)
+
+
+23. Tekniska museet
+
+23.1. Cykelmärken (digitalt okänt format, ca 2.500 poster)
+
+23.2. Personhistoriska arkivet (analogt i arkivkartonger, ca 2.000 poster)
+
+23.3. Namnregister (digitalt i Delfi, i K-samsök, ca 20.000 namnposter)
+
+
+24. Världskulturmuseerna (Etnografiska museet, Medelhavsmuseet, Världskulturmuseet, Östasiatiska museet)
+
+24.1. Personregister (digitalt i Carlotta, planer på K-samsök under året, ca 6.500 poster)
+
+24.2. Utställningar (digitalt i Carlotta, i K-samsök, okänt antal)
+
+/Helena Lundin, 2013-08-19
