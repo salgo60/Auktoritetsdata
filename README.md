@@ -1,7 +1,7 @@
 # Auktoritetsdata
 
 # Länkar
-* [KulturNav Ulf Bodin Gemensam samnordisk auktoritets-hantering för kultursektorn](http://media.digikult.se/2014/04/Digikult-2014-KulturNav-Bodin.pdf)
+* [KulturNav Ulf Bodin Gemensam samnordisk auktoritets-hantering för kultursektorn](http://media.digikult.se/2014/04/Digikult-2014-KulturNav-Bodin.pdf) - [IA](https://web.archive.org/web/20221012055739/https://media.digikult.se/2014/04/Digikult-2014-KulturNav-Bodin.pdf)
 * [Funktionella krav på auktoritetsdata  En konceptuell modell 2008](https://www.ifla.org/files/assets/cataloguing/frad/frad_2009-sv.pdf)
 ```
 Auktoritetsposten brukar också innehålla information om
